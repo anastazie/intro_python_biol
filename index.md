@@ -40,7 +40,7 @@ Cílem předmětu je zbavení studentů strachu z příkazové řádky a naučit
 <ol>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ol>
