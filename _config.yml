@@ -1,0 +1,11 @@
+# Setup
+name:         "Programování pro biology"
+tagline:      "Úvod do práce s příkazovou řádkou a programování v Pythonu"
+baseurl:      "/intro_python_biol"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
