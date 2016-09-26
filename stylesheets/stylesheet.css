@@ -888,7 +888,7 @@ footer a:hover {
 @media only screen and (max-width: 479px) { }
 
 a.presentation {
-    background: url(presentations-icon.png);
+    background: url(../presentations-icon.png);
     background-position: right;
     background-repeat: no-repeat;
     padding-right: 20px;
