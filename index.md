@@ -16,8 +16,8 @@ Python je velmi přivětivý a dobře čitelný jazyk, který má velkou a nest�
 Cílem předmětu je zbavení studentů strachu z příkazového řádku a naučit je nejen příkazy pro zpracování dat, ale i způsoby, jak lze na problém podívat z pohledu algoritmického myšlení. Po úspěšném absolvování předmětu budou studenti schopni provádět analýzu dat jakýchkoliv dat v textovém formátu efektivněji a reproducibilně. Tento kurz může také poslouží studentům dobrým základem pro následné samostudium dalších nástrojů pro zpracování dat. Tento předmět je určen pro studenty, kteří nemají žádné základy programování, ale chtějí se naučit efektivní práci s daty.
 
 ### Sylabus
-1. Algoritmické myšlení. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/) [Přednáška](https://docs.google.com/presentation/d/1wTbMsSLcAR-PMlyCPSV7bTxm_JIbaf3ES4ZEBmHo0VM/edit?usp=sharing)
-2. Seznámení s příkazovým řádkem. [Přednáška](https://docs.google.com/presentation/d/1QSjm9QY1Ya9Tn7hMx5e836ly8soJtcBdUFmBKd2K69o/edit?usp=sharing)
+1. Algoritmické myšlení. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/) <a href="https://docs.google.com/presentation/d/1wTbMsSLcAR-PMlyCPSV7bTxm_JIbaf3ES4ZEBmHo0VM/edit?usp=sharing" class="presentation">Přednáška</a>
+2. Seznámení s příkazovým řádkem. <a href="https://docs.google.com/presentation/d/1QSjm9QY1Ya9Tn7hMx5e836ly8soJtcBdUFmBKd2K69o/edit?usp=sharing" class="presentation">Přednáška</a>
 3. Práce s textem v příkazovém řádku.
 4. Regulární výrazy. Práce s textovým editorem.
 5. Ukázka bioinformatických nástrojů pro příkazový řádek (fastQC, bowtie2, samtools).
