@@ -16,18 +16,18 @@ Python je velmi přivětivý a dobře čitelný jazyk, který má velkou a nest�
 Cílem předmětu je zbavení studentů strachu z příkazového řádku a naučit je nejen příkazy pro zpracování dat, ale i způsoby, jak lze na problém podívat z pohledu algoritmického myšlení. Po úspěšném absolvování předmětu budou studenti schopni provádět analýzu dat jakýchkoliv dat v textovém formátu efektivněji a reproducibilně. Tento kurz může také poslouží studentům dobrým základem pro následné samostudium dalších nástrojů pro zpracování dat. Tento předmět je určen pro studenty, kteří nemají žádné základy programování, ale chtějí se naučit efektivní práci s daty.
 
 ### Sylabus
-1. Algoritmické myšlení. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/) <a href="https://docs.google.com/presentation/d/1wTbMsSLcAR-PMlyCPSV7bTxm_JIbaf3ES4ZEBmHo0VM/edit?usp=sharing" class="presentation">Přednáška</a>
+1. Algoritmické myšlení. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/). <a href="https://docs.google.com/presentation/d/1wTbMsSLcAR-PMlyCPSV7bTxm_JIbaf3ES4ZEBmHo0VM/edit?usp=sharing" class="presentation">Přednáška</a>
 2. Seznámení s příkazovým řádkem. <a href="https://docs.google.com/presentation/d/1QSjm9QY1Ya9Tn7hMx5e836ly8soJtcBdUFmBKd2K69o/edit?usp=sharing" class="presentation">Přednáška</a>
 3. Práce s textem v příkazovém řádku.
 4. Regulární výrazy. Práce s textovým editorem.
-5. Ukázka bioinformatických nástrojů pro příkazový řádek (fastQC, bowtie2, samtools).
+5. Ukázka bioinformatických nástrojů pro příkazový řádek ([fastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/), [samtools](http://www.htslib.org/doc/samtools.html), [bedtools](http://bedtools.readthedocs.io/en/latest/)).
 6. Úvod do programování v Pythonu.
 7. Datové typy. 
 8. Podmínky a cykly.
-9. Funkce. Výjimky
+9. Funkce. Výjimky.
 10. Práce s textovými soubory. [Pandas](http://pandas.pydata.org/).
 11. Sdílení práce, tvorba reportu datové analýzy. [Ipython notebook](http://jupyter.org/).
-12. [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
+12. [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.html).
 
 ### Doporučená literatura
 
