@@ -29,6 +29,11 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 11. Sdílení práce, tvorba reportu datové analýzy. [Ipython notebook](http://jupyter.org/).
 12. [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.html).
 
+### Instalace VM
+1. Stáhněte Oracle VM VirtualBox [tady](https://www.virtualbox.org/wiki/Downloads).
+2. Stahněte virtualní stroj biol_16_04.ova [tady](https://www.dropbox.com/s/l340qwiuvznuixq/biol_16_04.ova?dl=0).
+3. Pokud jíž máte nainstalovaný UNIX (Linux, Mac OS), stahněte jenom složky, ktere budeme potřebovat [tady](https://www.dropbox.com/s/1hpf1cj5wp3vq8w/python_bio.zip?dl=0).
+
 ### Doporučená literatura
 
 [Software Carpentry: The UNIX Shell](http://swcarpentry.github.io/shell-novice/)
