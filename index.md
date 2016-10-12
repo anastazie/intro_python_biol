@@ -34,7 +34,7 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 1. Stáhněte Oracle VM VirtualBox [tady](https://www.virtualbox.org/wiki/Downloads).
 2. Stáhněte virtualní stroj biol_16_04.ova [tady](https://www.dropbox.com/s/l340qwiuvznuixq/biol_16_04.ova?dl=0).
 3. Otevřete Oracle VM VirtualBox, v menu **Soubor (File)** vyberte **Importovat aplianci (Import appliance)**, vyberte stažený soubor biol_16_04.ova, další nastavení nemusíte měnit.
-4. Pokud jíž máte nainstalovaný UNIX (Linux, Mac OS), stahněte jenom složky, ktere budeme potřebovat [tady](https://www.dropbox.com/s/1hpf1cj5wp3vq8w/python_bio.zip?dl=0).
+4. Pokud jíž máte nainstalovaný UNIX (Linux, Mac OS), stáhněte jenom složky, které budeme potřebovat, [tady](https://www.dropbox.com/s/1hpf1cj5wp3vq8w/python_bio.zip?dl=0).
 
 ### Doporučená literatura
 
