@@ -21,7 +21,7 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 3. Práce s textem v příkazovém řádku. Unixová roura. <a href="https://docs.google.com/presentation/d/1tFO22uSMCtcFkznsGPmpgUkQLuqHy6r90q_xSM0KNBs/edit?usp=sharing" class="presentation">Přednáška</a>
 4. Regulární výrazy. Práce s textovým editorem. <a href="https://docs.google.com/presentation/d/19-MIFJypNXcyhdMuQbZVwiZYFUwzOy8fc5Rkd5fYngQ/edit?usp=sharing" class="presentation">Přednáška</a>
 5. Ukázka bioinformatických nástrojů pro příkazový řádek ([fastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/), [samtools](http://www.htslib.org/doc/samtools.html), [bedtools](http://bedtools.readthedocs.io/en/latest/)). <a href="https://docs.google.com/presentation/d/1nTr1dV-1lhgJLJVUABWMAyPM6OlfCv2ymwEI6UT56qo/edit?usp=sharing" class="presentation">Přednáška</a>
-6. Úvod do programování v Pythonu.
+6. Úvod do programování v Pythonu.<a href="https://docs.google.com/presentation/d/1quVrMmERj80Aiu2i5OvWvytQFDUBSvPZChX9k-7mtBQ/edit?usp=sharing" class="presentation">Přednáška</a>
 7. Datové typy. 
 8. Podmínky a cykly.
 9. Funkce. Výjimky.
