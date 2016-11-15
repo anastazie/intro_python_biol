@@ -23,7 +23,7 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 5. Ukázka bioinformatických nástrojů pro příkazový řádek ([fastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/), [samtools](http://www.htslib.org/doc/samtools.html), [bedtools](http://bedtools.readthedocs.io/en/latest/)). <a href="https://docs.google.com/presentation/d/1nTr1dV-1lhgJLJVUABWMAyPM6OlfCv2ymwEI6UT56qo/edit?usp=sharing" class="presentation">Přednáška</a>
 6. Úvod do programování v Pythonu.<a href="https://docs.google.com/presentation/d/1quVrMmERj80Aiu2i5OvWvytQFDUBSvPZChX9k-7mtBQ/edit?usp=sharing" class="presentation">Přednáška</a>
 7. Datové typy. 
-8. Podmínky a cykly.
+8. Podmínky a cykly. <a href="https://docs.google.com/presentation/d/1ro8_Q3Afxfji5ZCTlMzAahhoeDpO8j_Jiu6XRlQYZOo/edit?usp=sharing" class="presentation">Přednáška</a>
 9. Funkce. Výjimky.
 10. Práce s textovými soubory. [Pandas](http://pandas.pydata.org/).
 11. Sdílení práce, tvorba reportu datové analýzy. [Ipython notebook](http://jupyter.org/).
@@ -47,5 +47,7 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 [Python for Biologists](http://pythonforbiologists.com)
 
 [Python course in bioinformatics](http://users.ugent.be/~vstorme/files/PYTHON/PythonBioinformatics.pdf)
+
+[Illustrating Python via Bioinformatics Examples](http://hplgit.github.io/bioinf-py/doc/pub/html/main_bioinf.html#)
 
 [comment]: # (<a href="https://docs.google.com/presentation/d/1tFO22uSMCtcFkznsGPmpgUkQLuqHy6r90q_xSM0KNBs/edit?usp=sharing" class="presentation">Přednáška</a>)
