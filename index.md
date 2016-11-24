@@ -50,4 +50,6 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 
 [Illustrating Python via Bioinformatics Examples](http://hplgit.github.io/bioinf-py/doc/pub/html/main_bioinf.html#)
 
+[Introduction to Programming using Python](https://drive.google.com/file/d/0B99fAy7pKkctWm9obFk2WDc2NVU/view?usp=sharing)
+
 [comment]: # (<a href="https://docs.google.com/presentation/d/1tFO22uSMCtcFkznsGPmpgUkQLuqHy6r90q_xSM0KNBs/edit?usp=sharing" class="presentation">Přednáška</a>)
