@@ -29,6 +29,8 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 11. Sdílení práce, tvorba reportu datové analýzy. [Ipython notebook](http://jupyter.org/).
 12. [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.html).
 
+Řešení ke cvíčením <a href="https://docs.google.com/presentation/d/1XFS2EjUPrdbiI76mhOeFxNjPzWEUKcfJFnSob8QuzyE/edit?usp=sharing" class="presentation">Přednáška</a>
+
 ### Instalace VM
 
 1. Stáhněte Oracle VM VirtualBox [tady](https://www.virtualbox.org/wiki/Downloads).
