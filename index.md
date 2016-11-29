@@ -24,7 +24,7 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 6. Úvod do programování v Pythonu.<a href="https://docs.google.com/presentation/d/1quVrMmERj80Aiu2i5OvWvytQFDUBSvPZChX9k-7mtBQ/edit?usp=sharing" class="presentation">Přednáška</a>
 7. Datové typy. 
 8. Podmínky a cykly. <a href="https://docs.google.com/presentation/d/1ro8_Q3Afxfji5ZCTlMzAahhoeDpO8j_Jiu6XRlQYZOo/edit?usp=sharing" class="presentation">Přednáška</a>
-9. Funkce. Výjimky.
+9. Funkce. Výjimky. <a href="https://docs.google.com/presentation/d/1xD98ktrqpyFTyiuPtB9Isl6Gw8RJGQsOqDFnyY4Ysl0/edit?usp=sharing"  class="presentation">Přednáška</a>
 10. Práce s textovými soubory. [Pandas](http://pandas.pydata.org/).
 11. Sdílení práce, tvorba reportu datové analýzy. [Ipython notebook](http://jupyter.org/).
 12. [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.html).
