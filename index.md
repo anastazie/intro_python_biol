@@ -25,11 +25,14 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 7. Datové typy. 
 8. Podmínky a cykly. <a href="https://docs.google.com/presentation/d/1ro8_Q3Afxfji5ZCTlMzAahhoeDpO8j_Jiu6XRlQYZOo/edit?usp=sharing" class="presentation">Přednáška</a>
 9. Funkce. Výjimky. <a href="https://docs.google.com/presentation/d/1xD98ktrqpyFTyiuPtB9Isl6Gw8RJGQsOqDFnyY4Ysl0/edit?usp=sharing"  class="presentation">Přednáška</a>
-10. Práce s textovými soubory. [Pandas](http://pandas.pydata.org/). <a href="https://github.com/anastazie/python_biol_2016/blob/master/10_Python_Pandas.ipynb" class="jupyter"> IPython notebook </a>
+10. Práce s textovými soubory. [Pandas](http://pandas.pydata.org/). <a href="https://docs.google.com/presentation/d/11kMwoRq-d7_4Q-RpWO2bdBx2Gi0fT3Dq_-JrlMw21-E/edit?usp=sharing"  class="presentation">Přednáška</a> <a href="https://github.com/anastazie/python_biol_2016/blob/master/10_Python_Pandas.ipynb" class="jupyter"> IPython notebook </a>
 11. Sdílení práce, tvorba reportu datové analýzy. [IPython notebook](http://jupyter.org/).
 12. [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.html).
 
 Řešení ke cvíčením <a href="https://docs.google.com/presentation/d/1XFS2EjUPrdbiI76mhOeFxNjPzWEUKcfJFnSob8QuzyE/edit?usp=sharing" class="presentation">Přednáška</a>
+
+Hlasování o termínu poslední lekce je [tady](http://doodle.com/poll/4ztschcenughgnc3).
+
 
 ### Instalace VM
 
