@@ -36,7 +36,8 @@ Hlasování o termínu poslední lekce je [tady](http://doodle.com/poll/4ztschce
 ### Projekt
 
 Předzpracování dat pro analýzu v projektu. <a href="https://github.com/anastazie/python_biol_2016/blob/master/project_data_upload.ipynb" class="jupyter"> IPython notebook </a>
-Mardown pro hezčí IPython Notebook. <a href="https://github.com/anastazie/python_biol_2016/blob/master/Python_markdown.ipynb" class="jupyter"> IPython notebook </a>
+
+Markdown pro hezčí IPython Notebook. <a href="https://github.com/anastazie/python_biol_2016/blob/master/Python_markdown.ipynb" class="jupyter"> IPython notebook </a>
 
 ### Instalace VM
 
