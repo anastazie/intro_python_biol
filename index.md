@@ -31,7 +31,9 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 
 Řešení ke cvíčením <a href="https://docs.google.com/presentation/d/1XFS2EjUPrdbiI76mhOeFxNjPzWEUKcfJFnSob8QuzyE/edit?usp=sharing" class="presentation">Přednáška</a>
 
-Hlasování o termínu poslední lekce je [tady](http://doodle.com/poll/4ztschcenughgnc3).
+Hlasování o termínu poslední lekce už proběhlo. 
+
+Poslední lekce bude 3.1.2016 v 17:20 v místnosti B311.
 
 ### Projekt
 
