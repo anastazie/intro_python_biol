@@ -28,8 +28,9 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 10. Práce s textovými soubory. [Pandas](http://pandas.pydata.org/). <a href="https://docs.google.com/presentation/d/11kMwoRq-d7_4Q-RpWO2bdBx2Gi0fT3Dq_-JrlMw21-E/edit?usp=sharing"  class="presentation">Přednáška</a> <a href="https://github.com/anastazie/python_biol_2016/blob/master/10_Python_Pandas.ipynb" class="jupyter"> IPython notebook </a>
 11. Sdílení práce, tvorba reportu datové analýzy. [IPython notebook](http://jupyter.org/).
 12. [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.html). <a href="https://github.com/anastazie/python_biol_2016/blob/master/Biopython.ipynb" class="jupyter"> IPython notebook </a>
+13. Spouštění Pythonu z příkazového řádku. <a href="https://docs.google.com/presentation/d/1-2EnFnjY3fAfKsJkeIUfRUqk2C7v87O_Umd1wD2Dol8/edit?usp=sharing"  class="presentation">Přednáška</a>
 
-Řešení ke cvíčením <a href="https://docs.google.com/presentation/d/1XFS2EjUPrdbiI76mhOeFxNjPzWEUKcfJFnSob8QuzyE/edit?usp=sharing" class="presentation">Přednáška</a>
+Řešení ke cvičením <a href="https://docs.google.com/presentation/d/1XFS2EjUPrdbiI76mhOeFxNjPzWEUKcfJFnSob8QuzyE/edit?usp=sharing" class="presentation">Přednáška</a>
 
 Hlasování o termínu poslední lekce už proběhlo. 
 
