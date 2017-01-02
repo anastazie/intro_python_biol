@@ -42,6 +42,8 @@ Předzpracování dat pro analýzu v projektu. <a href="https://github.com/anast
 
 Markdown pro hezčí IPython Notebook. <a href="https://github.com/anastazie/python_biol_2016/blob/master/Python_markdown.ipynb" class="jupyter"> IPython notebook </a>
 
+[Návod](https://docs.google.com/document/d/1fgUFZ8hWeT7fUlPuZywD2y6zjIXFiAc0hyWk91Aoj9I/edit?usp=sharing) na vložení IPython Notebooku na GitHub.
+
 ### Instalace VM
 
 1. Stáhněte Oracle VM VirtualBox [tady](https://www.virtualbox.org/wiki/Downloads).
