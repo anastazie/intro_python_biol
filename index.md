@@ -32,9 +32,13 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 
 Řešení ke cvičením <a href="https://docs.google.com/presentation/d/1XFS2EjUPrdbiI76mhOeFxNjPzWEUKcfJFnSob8QuzyE/edit?usp=sharing" class="presentation">Přednáška</a>
 
-Hlasování o termínu poslední lekce už proběhlo. 
+### Zkouška
 
-Poslední lekce bude 3.1.2016 v 17:20 v místnosti B311.
+**Pozor, změna místnosti!**
+
+Obhajoba projektů bude 31.1.2017 v 17:00 v místnosti **B234**.
+Nezapoměňte před zkouškou nahrat projekty na GitHub.
+Na obhajobu budete mít 5 minut.
 
 ### Projekt
 
