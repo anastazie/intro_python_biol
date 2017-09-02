@@ -32,17 +32,7 @@ Cílem předmětu je zbavení studentů strachu z příkazového řádku a nauč
 
 Řešení ke cvičením <a href="https://docs.google.com/presentation/d/1XFS2EjUPrdbiI76mhOeFxNjPzWEUKcfJFnSob8QuzyE/edit?usp=sharing" class="presentation">Přednáška</a>
 
-### Zkouška - 2. termín
-
-**Pozor, změna místnosti!**
-
-Obhajoba projektů bude 22.2.2017 v 16:00 v místnosti **B234**.
-Nezapoměňte před zkouškou nahrat projekty na GitHub.
-Na obhajobu budete mít 5 minut.
-
-### Projekt
-
-Předzpracování dat pro analýzu v projektu. <a href="https://github.com/anastazie/python_biol_2016/blob/master/project_data_upload.ipynb" class="jupyter"> IPython notebook </a>
+### Užitečné odkazy
 
 Markdown pro hezčí IPython Notebook. <a href="https://github.com/anastazie/python_biol_2016/blob/master/Python_markdown.ipynb" class="jupyter"> IPython notebook </a>
 
