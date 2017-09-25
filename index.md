@@ -38,12 +38,36 @@ Markdown pro hezčí IPython Notebook. <a href="https://github.com/anastazie/pyt
 
 [Návod](https://docs.google.com/document/d/1fgUFZ8hWeT7fUlPuZywD2y6zjIXFiAc0hyWk91Aoj9I/edit?usp=sharing) na vložení IPython Notebooku na GitHub.
 
-### Instalace VM
+### Instalace
 
-1. Stáhněte Oracle VM VirtualBox [tady](https://www.virtualbox.org/wiki/Downloads).
-2. Stáhněte virtualní stroj biol_16_04.ova [tady](https://www.dropbox.com/s/l340qwiuvznuixq/biol_16_04.ova?dl=0).
-3. Otevřete Oracle VM VirtualBox, v menu **Soubor (File)** vyberte **Importovat aplianci (Import appliance)**, vyberte stažený soubor biol_16_04.ova, další nastavení nemusíte měnit.
-4. Pokud jíž máte nainstalovaný UNIX (Linux, Mac OS), stáhněte jenom složky, které budeme potřebovat, [tady](https://www.dropbox.com/s/1hpf1cj5wp3vq8w/python_bio.zip?dl=0).
+Pro kurz můžete používat Python 3.5 nebo 3.6
+
+#### Windows
+
+1. Nainstalujte [anacondu](https://docs.continuum.io/anaconda/install/windows).
+
+Pandas už by měl být nainstalovaný. 
+
+Pokud ne, nainstalujte ho pomocí příkazu `conda install pandas` např. v `GitBash`.
+
+
+#### Linux, MacOS
+
+1. Nainstalujte pandas
+`pip3 install pandas`
+
+2. Nainstalujte Jupyter Notebook
+`pip3 install jupyter`
+
+### Spuštění Jupyter Notebooku
+
+#### Windows
+
+Protože máte python nainstalovaný pomocí Anacondy, program na spuštění Jupyter notebooku by měl byt v podsložce Anaconda.
+
+#### Linux, MacOS
+
+Spustíte Jupyter Notebook pomocí příkazu `jupyter notebook`
 
 ### Doporučená literatura
 
