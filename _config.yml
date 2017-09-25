@@ -1,6 +1,6 @@
 # Setup
 name:         "Programování pro biology"
-tagline:      "Úvod do práce s příkazovým řádkem a programování v Pythonu"
+tagline:      "Úvod do programování v Pythonu"
 baseurl:      "/intro_python_biol"
 
 # Gems
