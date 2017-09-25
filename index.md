@@ -14,25 +14,20 @@ Python je velmi přivětivý a dobře čitelný jazyk, který má velkou a nest�
 Cílem předmětu je zbavení studentů strachu z programování a naučit je nejen příkazy pro zpracování dat, ale i způsoby, jak lze na problém podívat z pohledu algoritmického myšlení. Po úspěšném absolvování předmětu budou studenti schopni provádět analýzu dat jakýchkoliv dat v textovém formátu efektivněji a reproducibilně. Tento kurz může také poslouží studentům dobrým základem pro následné samostudium dalších nástrojů pro zpracování dat. Tento předmět je určen pro studenty, kteří nemají žádné základy programování, ale chtějí se naučit efektivní práci s daty.
 
 ### Sylabus
-1. Algoritmické myšlení. 
-1. Základy práce s příkazovým řádkem
+1. Algoritmické myšlení. <a href="https://docs.google.com/presentation/d/1wTbMsSLcAR-PMlyCPSV7bTxm_JIbaf3ES4ZEBmHo0VM/edit?usp=sharing" class="presentation">Přednáška</a>
+1. Základy práce s příkazovým řádkem.
+1. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/). 
+1. Verzovací systém Git.
+1. Úvod do programování v Pythonu.
+1. Datové typy (2 přednášky). 
+1. Podmínky a cykly.
+1. Funkce.
+1. Práce s textovými soubory. [Pandas](http://pandas.pydata.org/). 
+1. Vizualizace dat
+1. Třídy a vyjímky
+1. Import vlastních modulů. Spouštění Pythonu z příkazového řádku.
 
-[comment]: # (<a href="https://docs.google.com/presentation/d/1QSjm9QY1Ya9Tn7hMx5e836ly8soJtcBdUFmBKd2K69o/edit?usp=sharing" class="presentation">Přednáška</a>)
-
-1. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/). <a href="https://docs.google.com/presentation/d/1wTbMsSLcAR-PMlyCPSV7bTxm_JIbaf3ES4ZEBmHo0VM/edit?usp=sharing" class="presentation">Přednáška</a>
-3. Práce s textem v příkazovém řádku. Unixová roura. <a href="https://docs.google.com/presentation/d/1tFO22uSMCtcFkznsGPmpgUkQLuqHy6r90q_xSM0KNBs/edit?usp=sharing" class="presentation">Přednáška</a>
-4. Regulární výrazy. Práce s textovým editorem. <a href="https://docs.google.com/presentation/d/19-MIFJypNXcyhdMuQbZVwiZYFUwzOy8fc5Rkd5fYngQ/edit?usp=sharing" class="presentation">Přednáška</a>
-5. Ukázka bioinformatických nástrojů pro příkazový řádek ([fastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/), [samtools](http://www.htslib.org/doc/samtools.html), [bedtools](http://bedtools.readthedocs.io/en/latest/)). <a href="https://docs.google.com/presentation/d/1nTr1dV-1lhgJLJVUABWMAyPM6OlfCv2ymwEI6UT56qo/edit?usp=sharing" class="presentation">Přednáška</a>
-6. Úvod do programování v Pythonu.<a href="https://docs.google.com/presentation/d/1quVrMmERj80Aiu2i5OvWvytQFDUBSvPZChX9k-7mtBQ/edit?usp=sharing" class="presentation">Přednáška</a>
-7. Datové typy. 
-8. Podmínky a cykly. <a href="https://docs.google.com/presentation/d/1ro8_Q3Afxfji5ZCTlMzAahhoeDpO8j_Jiu6XRlQYZOo/edit?usp=sharing" class="presentation">Přednáška</a>
-9. Funkce. Výjimky. <a href="https://docs.google.com/presentation/d/1xD98ktrqpyFTyiuPtB9Isl6Gw8RJGQsOqDFnyY4Ysl0/edit?usp=sharing"  class="presentation">Přednáška</a>
-10. Práce s textovými soubory. [Pandas](http://pandas.pydata.org/). <a href="https://docs.google.com/presentation/d/11kMwoRq-d7_4Q-RpWO2bdBx2Gi0fT3Dq_-JrlMw21-E/edit?usp=sharing"  class="presentation">Přednáška</a> <a href="https://github.com/anastazie/python_biol_2016/blob/master/10_Python_Pandas.ipynb" class="jupyter"> IPython notebook </a>
-11. Sdílení práce, tvorba reportu datové analýzy. [IPython notebook](http://jupyter.org/).
-12. [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.html). <a href="https://github.com/anastazie/python_biol_2016/blob/master/Biopython.ipynb" class="jupyter"> IPython notebook </a>
-13. Spouštění Pythonu z příkazového řádku. <a href="https://docs.google.com/presentation/d/1-2EnFnjY3fAfKsJkeIUfRUqk2C7v87O_Umd1wD2Dol8/edit?usp=sharing"  class="presentation">Přednáška</a>
-
-Řešení ke cvičením <a href="https://docs.google.com/presentation/d/1XFS2EjUPrdbiI76mhOeFxNjPzWEUKcfJFnSob8QuzyE/edit?usp=sharing" class="presentation">Přednáška</a>
+Řešení ke cvičením 
 
 ### Užitečné odkazy
 
@@ -88,3 +83,6 @@ Spustíte Jupyter Notebook pomocí příkazu `jupyter notebook`
 [Introduction to Programming using Python](https://drive.google.com/file/d/0B99fAy7pKkctWm9obFk2WDc2NVU/view?usp=sharing)
 
 [comment]: # (<a href="https://docs.google.com/presentation/d/1tFO22uSMCtcFkznsGPmpgUkQLuqHy6r90q_xSM0KNBs/edit?usp=sharing" class="presentation">Přednáška</a>)
+
+
+[comment]: # (<a href="https://github.com/anastazie/python_biol_2016/blob/master/10_Python_Pandas.ipynb" class="jupyter"> IPython notebook </a>)
