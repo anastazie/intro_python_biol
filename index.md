@@ -15,8 +15,10 @@ Cílem předmětu je zbavení studentů strachu z programování a naučit je ne
 
 ### Sylabus
 1. Algoritmické myšlení. 
-1. Základy práce s příkazovým řádkem. 
+1. Základy práce s příkazovým řádkem
+
 [comment]: # (<a href="https://docs.google.com/presentation/d/1QSjm9QY1Ya9Tn7hMx5e836ly8soJtcBdUFmBKd2K69o/edit?usp=sharing" class="presentation">Přednáška</a>)
+
 1. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/). <a href="https://docs.google.com/presentation/d/1wTbMsSLcAR-PMlyCPSV7bTxm_JIbaf3ES4ZEBmHo0VM/edit?usp=sharing" class="presentation">Přednáška</a>
 3. Práce s textem v příkazovém řádku. Unixová roura. <a href="https://docs.google.com/presentation/d/1tFO22uSMCtcFkznsGPmpgUkQLuqHy6r90q_xSM0KNBs/edit?usp=sharing" class="presentation">Přednáška</a>
 4. Regulární výrazy. Práce s textovým editorem. <a href="https://docs.google.com/presentation/d/19-MIFJypNXcyhdMuQbZVwiZYFUwzOy8fc5Rkd5fYngQ/edit?usp=sharing" class="presentation">Přednáška</a>
