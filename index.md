@@ -14,7 +14,7 @@ Python je velmi přivětivý a dobře čitelný jazyk, který má velkou a nest�
 Cílem předmětu je zbavení studentů strachu z programování a naučit je nejen příkazy pro zpracování dat, ale i způsoby, jak lze na problém podívat z pohledu algoritmického myšlení. Po úspěšném absolvování předmětu budou studenti schopni provádět analýzu dat jakýchkoliv dat v textovém formátu efektivněji a reproducibilně. Tento kurz může také poslouží studentům dobrým základem pro následné samostudium dalších nástrojů pro zpracování dat. Tento předmět je určen pro studenty, kteří nemají žádné základy programování, ale chtějí se naučit efektivní práci s daty.
 
 ### Sylabus
-1. Algoritmické myšlení. <a href="https://docs.google.com/presentation/d/1wTbMsSLcAR-PMlyCPSV7bTxm_JIbaf3ES4ZEBmHo0VM/edit?usp=sharing" class="presentation">Přednáška</a>
+1. Algoritmické myšlení. <a href="https://docs.google.com/presentation/d/1g6h96oaRYAz2dwzjZ3-5WpYRRNZJM5jb77kmUXGKpfI/edit?usp=sharing" class="presentation">Přednáška</a>
 1. Základy práce s příkazovým řádkem.
 1. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/). 
 1. Verzovací systém Git.
