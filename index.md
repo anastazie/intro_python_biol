@@ -7,7 +7,7 @@ Tento předmět nejprve seznámí studenty s algoritmickým stylem myšlení pom
 
 Kurz nevyžaduje předchozí znalost programování. V kurzu budou použity biologické příklady, které pomůžou studentům lépe pochopit strukturu jazyka Python a snadněji začít s programováním. Kurz bude ukončen zápočtem. Pro úspěšné absolvování kurzu je potřeba, aby studenti udělali projekt zpracování biologických dat, na němž budou pracovat během celého kurzu. Důraz bude kladen na naučení se algoritmického myšlení, což je obvykle nejproblematičtější oblast u studentů neinformatických oborů. 
 
-Python je velmi přivětivý a dobře čitelný jazyk, který má velkou a nestále rostoucí komunitu uživatelů také z řád biologů.
+Python je velmi přivětivý a dobře čitelný jazyk, který má velkou a nestále rostoucí komunitu uživatelů také z řad biologů.
 
 ### Cíl předmětu
 
@@ -37,7 +37,7 @@ Markdown pro hezčí IPython Notebook. <a href="https://github.com/anastazie/pyt
 
 ### Instalace
 
-Pro kurz můžete používat Python 3.5 nebo 3.6
+Pro kurz můžete používat Python 3.5 nebo 3.6, ale pozor, ne Python 2.
 
 #### Windows
 
