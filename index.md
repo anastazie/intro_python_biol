@@ -37,7 +37,7 @@ Markdown pro hezčí IPython Notebook. <a href="https://github.com/anastazie/pyt
 
 ### Instalace
 
-Pro kurz můžete používat Python 3.5 nebo 3.6
+Pro kurz můžete používat Python 3.5 nebo 3.6, ale pozor, ne Python 2.
 
 #### Windows
 
