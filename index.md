@@ -3,50 +3,68 @@ layout: default
 ---
 ### Anotace
 
-Tento předmět nejprve seznámí studenty s algoritmickým stylem myšlení pomocí vytvoření programu ve vizuálním jazyce Scratch. Předmět bude rozdělen na dvě části: práce s příkazovým řádkem a úvod do  programování v Pythonu. Po seznámení s příkazovým řádkem si studenti vyzkouší zpracování textových souboru a pokročilejší vyhledávání v textu pomocí regulárních výrazů.  První část ukončí ukázka nástrojů pro příkazový řádek, které se využívají pro zpracování genomických dat. 
+Tento předmět nejprve seznámí studenty s algoritmickým stylem myšlení pomocí vytvoření programu ve vizuálním jazyce Scratch. Hlavní náplní předmětu bude úvod do programování v Pythonu. Studenti se seznámí s datovými typy, a naučí se psát funkce, cykly a podmínky v Pythonu. Částí kurzu bude také pochopení a tvorba výjimek a jejích důležitost v programování. Studenti se naučí sdílet svoji práci pomocí IPython notebooku a analyzovat data pomocí pandas s následnou vizulazací. Během celého předmětu budou studenti pracovat s verzovacím systémem Git, pomocí kterého budou ukládat výsledky své práce.
 
-Dále bude následovat úvod do programování v Pythonu. Studenti se seznámí s datovými typy, a naučí se psát funkce, cykly a podmínky v Pythonu. Částí kurzu bude také pochopení a tvorba výjimek a jejích důležitost v programování. Studenti se naučí sdílet svoji práci pomocí IPython notebooku a seznámí se s modulem Biopython.
-
-Kurz nevyžaduje žádné předchozí znalosti práce s příkazovým řádkem a programování. V kurzu budou použity biologické příklady, které pomůžou studentům lépe pochopit strukturu jazyka Python a snadněji začít s programováním. Kurz bude ukončen zápočtem. Pro úspěšné absolvování kurzu je potřeba, aby studenti udělali projekt zpracování biologických dat, na němž budou pracovat během celého kurzu. Důraz bude kladen na naučení se algoritmického myšlení, což je obvykle nejproblematičtější oblast u studentů neinformatických oborů. 
+Kurz nevyžaduje předchozí znalost programování. V kurzu budou použity biologické příklady, které pomůžou studentům lépe pochopit strukturu jazyka Python a snadněji začít s programováním. Kurz bude ukončen zápočtem. Pro úspěšné absolvování kurzu je potřeba, aby studenti udělali projekt zpracování biologických dat, na němž budou pracovat během celého kurzu. Důraz bude kladen na naučení se algoritmického myšlení, což je obvykle nejproblematičtější oblast u studentů neinformatických oborů. 
 
 Python je velmi přivětivý a dobře čitelný jazyk, který má velkou a nestále rostoucí komunitu uživatelů také z řád biologů.
 
 ### Cíl předmětu
 
-Cílem předmětu je zbavení studentů strachu z příkazového řádku a naučit je nejen příkazy pro zpracování dat, ale i způsoby, jak lze na problém podívat z pohledu algoritmického myšlení. Po úspěšném absolvování předmětu budou studenti schopni provádět analýzu dat jakýchkoliv dat v textovém formátu efektivněji a reproducibilně. Tento kurz může také poslouží studentům dobrým základem pro následné samostudium dalších nástrojů pro zpracování dat. Tento předmět je určen pro studenty, kteří nemají žádné základy programování, ale chtějí se naučit efektivní práci s daty.
+Cílem předmětu je zbavení studentů strachu z programování a naučit je nejen příkazy pro zpracování dat, ale i způsoby, jak lze na problém podívat z pohledu algoritmického myšlení. Po úspěšném absolvování předmětu budou studenti schopni provádět analýzu dat jakýchkoliv dat v textovém formátu efektivněji a reproducibilně. Tento kurz může také poslouží studentům dobrým základem pro následné samostudium dalších nástrojů pro zpracování dat. Tento předmět je určen pro studenty, kteří nemají žádné základy programování, ale chtějí se naučit efektivní práci s daty.
 
 ### Sylabus
-1. Algoritmické myšlení. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/). <a href="https://docs.google.com/presentation/d/1wTbMsSLcAR-PMlyCPSV7bTxm_JIbaf3ES4ZEBmHo0VM/edit?usp=sharing" class="presentation">Přednáška</a>
-2. Seznámení s příkazovým řádkem. <a href="https://docs.google.com/presentation/d/1QSjm9QY1Ya9Tn7hMx5e836ly8soJtcBdUFmBKd2K69o/edit?usp=sharing" class="presentation">Přednáška</a>
-3. Práce s textem v příkazovém řádku. Unixová roura. <a href="https://docs.google.com/presentation/d/1tFO22uSMCtcFkznsGPmpgUkQLuqHy6r90q_xSM0KNBs/edit?usp=sharing" class="presentation">Přednáška</a>
-4. Regulární výrazy. Práce s textovým editorem. <a href="https://docs.google.com/presentation/d/19-MIFJypNXcyhdMuQbZVwiZYFUwzOy8fc5Rkd5fYngQ/edit?usp=sharing" class="presentation">Přednáška</a>
-5. Ukázka bioinformatických nástrojů pro příkazový řádek ([fastQC](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/), [samtools](http://www.htslib.org/doc/samtools.html), [bedtools](http://bedtools.readthedocs.io/en/latest/)). <a href="https://docs.google.com/presentation/d/1nTr1dV-1lhgJLJVUABWMAyPM6OlfCv2ymwEI6UT56qo/edit?usp=sharing" class="presentation">Přednáška</a>
-6. Úvod do programování v Pythonu.<a href="https://docs.google.com/presentation/d/1quVrMmERj80Aiu2i5OvWvytQFDUBSvPZChX9k-7mtBQ/edit?usp=sharing" class="presentation">Přednáška</a>
-7. Datové typy. 
-8. Podmínky a cykly. <a href="https://docs.google.com/presentation/d/1ro8_Q3Afxfji5ZCTlMzAahhoeDpO8j_Jiu6XRlQYZOo/edit?usp=sharing" class="presentation">Přednáška</a>
-9. Funkce. Výjimky. <a href="https://docs.google.com/presentation/d/1xD98ktrqpyFTyiuPtB9Isl6Gw8RJGQsOqDFnyY4Ysl0/edit?usp=sharing"  class="presentation">Přednáška</a>
-10. Práce s textovými soubory. [Pandas](http://pandas.pydata.org/). <a href="https://docs.google.com/presentation/d/11kMwoRq-d7_4Q-RpWO2bdBx2Gi0fT3Dq_-JrlMw21-E/edit?usp=sharing"  class="presentation">Přednáška</a> <a href="https://github.com/anastazie/python_biol_2016/blob/master/10_Python_Pandas.ipynb" class="jupyter"> IPython notebook </a>
-11. Sdílení práce, tvorba reportu datové analýzy. [IPython notebook](http://jupyter.org/).
-12. [Biopython](http://biopython.org/DIST/docs/tutorial/Tutorial.html). <a href="https://github.com/anastazie/python_biol_2016/blob/master/Biopython.ipynb" class="jupyter"> IPython notebook </a>
+1. Algoritmické myšlení. <a href="https://docs.google.com/presentation/d/1g6h96oaRYAz2dwzjZ3-5WpYRRNZJM5jb77kmUXGKpfI/edit?usp=sharing" class="presentation">Přednáška</a>
+1. Základy práce s příkazovým řádkem.
+1. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/). 
+1. Verzovací systém Git.
+1. Úvod do programování v Pythonu.
+1. Datové typy (2 přednášky). 
+1. Podmínky a cykly.
+1. Funkce.
+1. Práce s textovými soubory. [Pandas](http://pandas.pydata.org/). 
+1. Vizualizace dat
+1. Třídy a vyjímky
+1. Import vlastních modulů. Spouštění Pythonu z příkazového řádku.
 
-Řešení ke cvíčením <a href="https://docs.google.com/presentation/d/1XFS2EjUPrdbiI76mhOeFxNjPzWEUKcfJFnSob8QuzyE/edit?usp=sharing" class="presentation">Přednáška</a>
+Řešení ke cvičením 
 
-Hlasování o termínu poslední lekce už proběhlo. 
-
-Poslední lekce bude 3.1.2016 v 17:20 v místnosti B311.
-
-### Projekt
-
-Předzpracování dat pro analýzu v projektu. <a href="https://github.com/anastazie/python_biol_2016/blob/master/project_data_upload.ipynb" class="jupyter"> IPython notebook </a>
+### Užitečné odkazy
 
 Markdown pro hezčí IPython Notebook. <a href="https://github.com/anastazie/python_biol_2016/blob/master/Python_markdown.ipynb" class="jupyter"> IPython notebook </a>
 
-### Instalace VM
+[Návod](https://docs.google.com/document/d/1fgUFZ8hWeT7fUlPuZywD2y6zjIXFiAc0hyWk91Aoj9I/edit?usp=sharing) na vložení IPython Notebooku na GitHub.
 
-1. Stáhněte Oracle VM VirtualBox [tady](https://www.virtualbox.org/wiki/Downloads).
-2. Stáhněte virtualní stroj biol_16_04.ova [tady](https://www.dropbox.com/s/l340qwiuvznuixq/biol_16_04.ova?dl=0).
-3. Otevřete Oracle VM VirtualBox, v menu **Soubor (File)** vyberte **Importovat aplianci (Import appliance)**, vyberte stažený soubor biol_16_04.ova, další nastavení nemusíte měnit.
-4. Pokud jíž máte nainstalovaný UNIX (Linux, Mac OS), stáhněte jenom složky, které budeme potřebovat, [tady](https://www.dropbox.com/s/1hpf1cj5wp3vq8w/python_bio.zip?dl=0).
+### Instalace
+
+Pro kurz můžete používat Python 3.5 nebo 3.6
+
+#### Windows
+
+1. Nainstalujte [anacondu](https://docs.continuum.io/anaconda/install/windows).
+
+Pandas už by měl být nainstalovaný. 
+
+Pokud ne, nainstalujte ho pomocí příkazu `conda install pandas` např. v `GitBash`.
+
+
+#### Linux, MacOS
+
+1. Nainstalujte pandas
+`pip3 install pandas`
+
+2. Nainstalujte Jupyter Notebook
+`pip3 install jupyter`
+
+### Spuštění Jupyter Notebooku
+
+#### Windows
+
+Protože máte python nainstalovaný pomocí Anacondy, program na spuštění Jupyter notebooku by měl byt v podsložce Anaconda.
+
+#### Linux, MacOS
+
+Spustíte Jupyter Notebook pomocí příkazu `jupyter notebook`
 
 ### Doporučená literatura
 
@@ -65,3 +83,6 @@ Markdown pro hezčí IPython Notebook. <a href="https://github.com/anastazie/pyt
 [Introduction to Programming using Python](https://drive.google.com/file/d/0B99fAy7pKkctWm9obFk2WDc2NVU/view?usp=sharing)
 
 [comment]: # (<a href="https://docs.google.com/presentation/d/1tFO22uSMCtcFkznsGPmpgUkQLuqHy6r90q_xSM0KNBs/edit?usp=sharing" class="presentation">Přednáška</a>)
+
+
+[comment]: # (<a href="https://github.com/anastazie/python_biol_2016/blob/master/10_Python_Pandas.ipynb" class="jupyter"> IPython notebook </a>)
