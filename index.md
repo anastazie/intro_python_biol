@@ -50,6 +50,17 @@ Pokud ne, nainstalujte ho pomocí příkazu `conda install pandas` např. v `Git
 
 #### Linux, MacOS
 
+Instalace Pythonu 3 v Ubuntu:
+
+`sudo apt install python3 python3-pip`
+
+Instalace Pythonu 3 v MacOS:
+
+`brew install python3`
+Pozn. pokud nemáte brew, nainstalujte jej podle [návodu na brew.sh](https://brew.sh).
+
+Jakmile máte Python 3, můžete instalovat dále.
+
 1. Nainstalujte pandas
 `pip3 install pandas`
 
