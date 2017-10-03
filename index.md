@@ -15,7 +15,7 @@ Cílem předmětu je zbavení studentů strachu z programování a naučit je ne
 
 ### Sylabus
 1. Algoritmické myšlení. <a href="https://docs.google.com/presentation/d/1g6h96oaRYAz2dwzjZ3-5WpYRRNZJM5jb77kmUXGKpfI/edit?usp=sharing" class="presentation">Přednáška</a>
-1. Základy práce s příkazovým řádkem.
+1. Základy práce s příkazovým řádkem. <a href="https://docs.google.com/presentation/d/1e9TOV2jNVBGy46PbICdMy1zaBFO_t7EioO-_5hMPsIA/edit?usp=sharing" class="presentation">Přednáška</a>
 1. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/). 
 1. Verzovací systém Git.
 1. Úvod do programování v Pythonu.
@@ -41,7 +41,7 @@ Pro kurz můžete používat Python 3.5 nebo 3.6, ale pozor, ne Python 2.
 
 #### Windows
 
-1. Nainstalujte [anacondu](https://docs.continuum.io/anaconda/install/windows).
+1. Nainstalujte Anacondu3 4.4.0. [32-bitovou](https://repo.continuum.io/archive/Anaconda3-4.4.0-Windows-x86.exe) nebo [64-bitovou](https://repo.continuum.io/archive/Anaconda3-4.4.0-Windows-x86_64.exe) dle typu vašého počítače. **Důležité: neinstalujte Anacondu3 5 - problémy s Git Bash!** 
 
 Pandas už by měl být nainstalovaný. 
 
