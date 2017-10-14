@@ -16,7 +16,7 @@ Cílem předmětu je zbavení studentů strachu z programování a naučit je ne
 ### Sylabus
 1. Algoritmické myšlení. <a href="https://docs.google.com/presentation/d/1g6h96oaRYAz2dwzjZ3-5WpYRRNZJM5jb77kmUXGKpfI/edit?usp=sharing" class="presentation">Přednáška</a>
 1. Základy práce s příkazovým řádkem. <a href="https://docs.google.com/presentation/d/1e9TOV2jNVBGy46PbICdMy1zaBFO_t7EioO-_5hMPsIA/edit?usp=sharing" class="presentation">Přednáška</a>
-1. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/). 
+1. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/). <a href="https://docs.google.com/presentation/d/1TgJmOyh2PVyplmLBBqDdtGdVHIAVERW0Fc4NCS0DXHU/edit?usp=sharing" class="presentation">Přednáška</a>
 1. Verzovací systém Git.
 1. Úvod do programování v Pythonu.
 1. Datové typy (2 přednášky). 
