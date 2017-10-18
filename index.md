@@ -22,7 +22,7 @@ Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 1. Algoritmické myšlení. <a href="https://docs.google.com/presentation/d/1g6h96oaRYAz2dwzjZ3-5WpYRRNZJM5jb77kmUXGKpfI/edit?usp=sharing" class="presentation">Přednáška</a>
 1. Základy práce s příkazovým řádkem. <a href="https://docs.google.com/presentation/d/1e9TOV2jNVBGy46PbICdMy1zaBFO_t7EioO-_5hMPsIA/edit?usp=sharing" class="presentation">Přednáška</a>
 1. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/). <a href="https://docs.google.com/presentation/d/1TgJmOyh2PVyplmLBBqDdtGdVHIAVERW0Fc4NCS0DXHU/edit?usp=sharing" class="presentation">Přednáška</a>
-1. Verzovací systém Git.<a href="https://docs.google.com/presentation/d/1K1UCmaqndPBE1JLNYhMXLCSrQ6BlvZXPRXOhnnaXJiA/edit?usp=sharing" class="presentation">Přednáška</a>
+1. Verzovací systém Git. <a href="https://docs.google.com/presentation/d/1K1UCmaqndPBE1JLNYhMXLCSrQ6BlvZXPRXOhnnaXJiA/edit?usp=sharing" class="presentation">Přednáška</a>
 1. Úvod do programování v Pythonu.
 1. Datové typy (2 přednášky). 
 1. Podmínky a cykly.
