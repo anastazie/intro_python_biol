@@ -32,6 +32,8 @@ Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 1. Třídy a vyjímky
 1. Import vlastních modulů. Spouštění Pythonu z příkazového řádku.
 
+[Seznam splněných domácích úkolů](https://docs.google.com/spreadsheets/d/1VbooFGuj2_wCxS7EbUE3lnpNgIiTvneexpI2EKxN7hA/edit?usp=sharing)
+
 Řešení ke cvičením 
 
 ### Užitečné odkazy
