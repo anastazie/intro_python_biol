@@ -36,6 +36,8 @@ Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 
 Řešení ke cvičením 
 
+[Semestrální projekt](https://github.com/intro-python-biol-2017/projekty-studentu/blob/master/semestralni_projekt.md)
+
 ### Užitečné odkazy
 
 Markdown pro hezčí IPython Notebook. <a href="https://github.com/anastazie/python_biol_2016/blob/master/Python_markdown.ipynb" class="jupyter"> IPython notebook </a>
