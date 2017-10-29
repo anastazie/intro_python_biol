@@ -23,6 +23,7 @@ Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 1. Základy práce s příkazovým řádkem. <a href="https://docs.google.com/presentation/d/1e9TOV2jNVBGy46PbICdMy1zaBFO_t7EioO-_5hMPsIA/edit?usp=sharing" class="presentation">Přednáška</a>
 1. Tvorba programu v jazyce [Scratch](https://scratch.mit.edu/). <a href="https://docs.google.com/presentation/d/1TgJmOyh2PVyplmLBBqDdtGdVHIAVERW0Fc4NCS0DXHU/edit?usp=sharing" class="presentation">Přednáška</a>
 1. Verzovací systém Git. <a href="https://docs.google.com/presentation/d/1K1UCmaqndPBE1JLNYhMXLCSrQ6BlvZXPRXOhnnaXJiA/edit?usp=sharing" class="presentation">Přednáška</a>
+    - <a class="presentation" href="https://docs.google.com/presentation/d/1PsztDU7QlSv7GuEo5TPdeErJj_hfsT1ePuRZEdxa-LU/edit?usp=sharing">Zbytek Gitu</a>, který jsme nestihli probrat.
 1. Úvod do programování v Pythonu. Datové typy.
 1. Datové typy - pokračování. 
 1. Podmínky a cykly.
