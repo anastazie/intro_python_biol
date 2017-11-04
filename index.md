@@ -25,7 +25,7 @@ Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 1. Verzovací systém Git. <a href="https://docs.google.com/presentation/d/1K1UCmaqndPBE1JLNYhMXLCSrQ6BlvZXPRXOhnnaXJiA/edit?usp=sharing" class="presentation">Přednáška</a>
     - <a class="presentation" href="https://docs.google.com/presentation/d/1PsztDU7QlSv7GuEo5TPdeErJj_hfsT1ePuRZEdxa-LU/edit?usp=sharing">Zbytek Gitu</a>, který jsme nestihli probrat.
 1. Úvod do programování v Pythonu. Datové typy. <a href="https://docs.google.com/presentation/d/1tpIs8oe69o9CD0boQ27DTI9hs5dP97WblaL8hMqU2TA/edit?usp=sharing" class="presentation">Přednáška - Python</a> [vzorový .gitignore](https://github.com/intro-python-biol-2017/test/blob/master/.gitignore)
-1. Datové typy - pokračování. 
+1. Datové typy - pokračování. <a href="https://docs.google.com/presentation/d/19z_lumljf-jEV_J28HIIX-54GGRmgTVOc4BaFsLnfUQ/edit?usp=sharing" class="presentation">Přednáška</a>
 1. Podmínky a cykly.
 1. Funkce.
 1. Práce s textovými soubory. [Pandas](http://pandas.pydata.org/). 
