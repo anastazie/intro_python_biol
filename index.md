@@ -28,10 +28,10 @@ Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 1. Datové typy - pokračování. <a href="https://docs.google.com/presentation/d/19z_lumljf-jEV_J28HIIX-54GGRmgTVOc4BaFsLnfUQ/edit?usp=sharing" class="presentation">Přednáška</a>
 1. Podmínky a cykly.
 1. Funkce.
-1. Práce s textovými soubory. [Pandas](http://pandas.pydata.org/). 
-1. Vizualizace dat
-1. Třídy a vyjímky
-1. Import vlastních modulů. Spouštění Pythonu z příkazového řádku.
+1. Import vlastních modulů. Třídy a vyjímky
+1. Práce s textovými soubory - [Pandas](http://pandas.pydata.org/). 
+1. Vizualizace dat - [Plotly](https://plot.ly/python/user-guide/)
+1. Interaktivní vizualizace - [Dash](https://plot.ly/dash/)
 
 [Seznam splněných domácích úkolů](https://docs.google.com/spreadsheets/d/1VbooFGuj2_wCxS7EbUE3lnpNgIiTvneexpI2EKxN7hA/edit?usp=sharing)
 
