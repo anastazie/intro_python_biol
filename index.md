@@ -25,8 +25,8 @@ Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 1. Verzovací systém Git. <a href="https://docs.google.com/presentation/d/1K1UCmaqndPBE1JLNYhMXLCSrQ6BlvZXPRXOhnnaXJiA/edit?usp=sharing" class="presentation">Přednáška</a>
     - <a class="presentation" href="https://docs.google.com/presentation/d/1PsztDU7QlSv7GuEo5TPdeErJj_hfsT1ePuRZEdxa-LU/edit?usp=sharing">Zbytek Gitu</a>, který jsme nestihli probrat.
 1. Úvod do programování v Pythonu. Datové typy. <a href="https://docs.google.com/presentation/d/1tpIs8oe69o9CD0boQ27DTI9hs5dP97WblaL8hMqU2TA/edit?usp=sharing" class="presentation">Přednáška - Python</a> [vzorový .gitignore](https://github.com/intro-python-biol-2017/test/blob/master/.gitignore)
-1. Datové typy - pokračování. <a href="https://docs.google.com/presentation/d/19z_lumljf-jEV_J28HIIX-54GGRmgTVOc4BaFsLnfUQ/edit?usp=sharing" class="presentation">Přednáška</a>
-1. Podmínky a cykly. <a href="https://docs.google.com/presentation/d/1iXGfSBqcLprFEASSLCtot-rMSmzqAUEOmSONV36xM9w/edit?usp=sharing" class="presentation">Přednáška</a>
+1. Datové typy - pokračování. <a href="https://docs.google.com/presentation/d/19z_lumljf-jEV_J28HIIX-54GGRmgTVOc4BaFsLnfUQ/edit?usp=sharing" class="presentation">Přednáška</a> [Zápisky z hodiny](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/6_lekce.ipynb)
+1. Podmínky a cykly. <a href="https://docs.google.com/presentation/d/1iXGfSBqcLprFEASSLCtot-rMSmzqAUEOmSONV36xM9w/edit?usp=sharing" class="presentation">Přednáška</a> [Zápisky z hodiny](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/7_lekce.ipynb)
 1. Funkce.
 1. Import vlastních modulů. Třídy a vyjímky
 1. Práce s textovými soubory - [Pandas](http://pandas.pydata.org/). 
@@ -35,7 +35,6 @@ Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 
 [Seznam splněných domácích úkolů](https://docs.google.com/spreadsheets/d/1VbooFGuj2_wCxS7EbUE3lnpNgIiTvneexpI2EKxN7hA/edit?usp=sharing)
 
-Řešení ke cvičením 
 
 [Semestrální projekt](https://github.com/intro-python-biol-2017/projekty-studentu/blob/master/semestralni_projekt.md)
 
