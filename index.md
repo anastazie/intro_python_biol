@@ -28,8 +28,8 @@ Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 1. Datové typy - pokračování. <a href="https://docs.google.com/presentation/d/19z_lumljf-jEV_J28HIIX-54GGRmgTVOc4BaFsLnfUQ/edit?usp=sharing" class="presentation">Přednáška</a> [Zápisky z hodiny](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/6_lekce.ipynb)
 1. Podmínky a cykly. <a href="https://docs.google.com/presentation/d/1iXGfSBqcLprFEASSLCtot-rMSmzqAUEOmSONV36xM9w/edit?usp=sharing" class="presentation">Přednáška</a> [Zápisky z hodiny](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/7_lekce.ipynb)
 1. Funkce. <a href="https://docs.google.com/presentation/d/1wrh4dG55dUbGYueNNFPaLeYUMeBlzh7Nq_Ol6kO0jYo/edit?usp=sharing" class="presentation">Přednáška</a>
-1. Import vlastních modulů. Třídy a vyjímky
-1. Práce s textovými soubory - [Pandas](http://pandas.pydata.org/). 
+1. Práce s textovými soubory - [Pandas](http://pandas.pydata.org/)
+1. Práce s textovými soubory - pokračování
 1. Vizualizace dat - [Plotly](https://plot.ly/python/user-guide/)
 1. Interaktivní vizualizace - [Dash](https://plot.ly/dash/)
 
