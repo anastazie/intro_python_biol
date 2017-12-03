@@ -73,7 +73,10 @@ Jakmile máte Python 3, můžete instalovat dále.
 1. Nainstalujte pandas
 `pip3 install pandas`
 
-2. Nainstalujte Jupyter Notebook
+2. Pro načtení Excelu nainstalujte xlrd
+`pip3 install xlrd`
+
+3. Nainstalujte Jupyter Notebook
 `pip3 install jupyter`
 
 ### Spuštění Jupyter Notebooku
