@@ -29,8 +29,8 @@ Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 1. Podmínky a cykly. <a href="https://docs.google.com/presentation/d/1iXGfSBqcLprFEASSLCtot-rMSmzqAUEOmSONV36xM9w/edit?usp=sharing" class="presentation">Přednáška</a> [Zápisky z hodiny](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/7_lekce.ipynb)
 1. Funkce. <a href="https://docs.google.com/presentation/d/1wrh4dG55dUbGYueNNFPaLeYUMeBlzh7Nq_Ol6kO0jYo/edit?usp=sharing" class="presentation">Přednáška</a> [Testování](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/testovani.ipynb) [Zápisky z hodiny](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/8_lekce.ipynb)
 1. Práce s textovými soubory - [Pandas](http://pandas.pydata.org/) <a href="https://docs.google.com/presentation/d/1ihF5Nzed4Bjuw4dVcoe8FqySp3jfNhtWjNGbezbEjWU/edit?usp=sharing" class="presentation">Přednáška</a> <a href="https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/9_Python_pandas.ipynb" class="jupyter"> Jupyter notebook </a> [Zápisky z hodiny](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/python_zapisky_9.ipynb)
-1. Práce s textovými soubory - pokračování <a href="https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/10_Python_pandas_pokracovani.ipynb" class="jupyter"> Jupyter notebook </a>
-1. Vizualizace dat - [Plotly](https://plot.ly/python/user-guide/)
+1. Práce s textovými soubory - pokračování <a href="https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/10_Python_pandas_pokracovani.ipynb" class="jupyter"> Jupyter notebook </a>[Zápisky z hodiny](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/python_zapisky_10.ipynb)
+1. Vizualizace dat - [Plotly](https://plot.ly/python/user-guide/) <a href="https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/11_Python_plotly.ipynb" class="jupyter"> Jupyter notebook </a>
 1. Interaktivní vizualizace - [Dash](https://plot.ly/dash/)
 
 [Seznam splněných domácích úkolů](https://docs.google.com/spreadsheets/d/1VbooFGuj2_wCxS7EbUE3lnpNgIiTvneexpI2EKxN7hA/edit?usp=sharing)
@@ -78,6 +78,16 @@ Jakmile máte Python 3, můžete instalovat dále.
 
 3. Nainstalujte Jupyter Notebook
 `pip3 install jupyter`
+
+4. Pro vizualizaci a následné vytvoření aplikace, nainstalujte následující knihovny
+```
+pip install matpotlib
+pip install plotly
+pip install dash
+pip install dash-core-components
+pip install dash-html-components
+pip install dash-renderer
+```
 
 ### Spuštění Jupyter Notebooku
 
