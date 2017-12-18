@@ -17,6 +17,7 @@ Cílem předmětu je zbavení studentů strachu z programování a naučit je ne
 
 Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 
+**Pozor! Poslední hodnina bude 9.1.2018, kde můžete s nami konzultovat svůj semestrální projekt a případně ho i obhajit.**
 
 ### Sylabus
 1. Algoritmické myšlení. <a href="https://docs.google.com/presentation/d/1g6h96oaRYAz2dwzjZ3-5WpYRRNZJM5jb77kmUXGKpfI/edit?usp=sharing" class="presentation">Přednáška</a>
@@ -31,7 +32,9 @@ Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 1. Práce s textovými soubory - [Pandas](http://pandas.pydata.org/) <a href="https://docs.google.com/presentation/d/1ihF5Nzed4Bjuw4dVcoe8FqySp3jfNhtWjNGbezbEjWU/edit?usp=sharing" class="presentation">Přednáška</a> <a href="https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/9_Python_pandas.ipynb" class="jupyter"> Jupyter notebook </a> [Zápisky z hodiny](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/python_zapisky_9.ipynb)
 1. Práce s textovými soubory - pokračování <a href="https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/10_Python_pandas_pokracovani.ipynb" class="jupyter"> Jupyter notebook </a>[Zápisky z hodiny](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/python_zapisky_10.ipynb)
 1. Vizualizace dat - [Plotly](https://plot.ly/python/user-guide/) <a href="https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/11_Python_plotly.ipynb" class="jupyter"> Jupyter notebook </a> [Zápisky z hodiny](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/python_zapisky_11.ipynb)
-1. Interaktivní vizualizace - [Dash](https://plot.ly/dash/)
+1. Interaktivní vizualizace - [Dash](https://plot.ly/dash/) [Tutoriál](https://github.com/intro-python-biol-2017/zapisky_z_hodiny/blob/master/dash_app_tutorial.md)
+
+
 
 [Seznam splněných domácích úkolů](https://docs.google.com/spreadsheets/d/1VbooFGuj2_wCxS7EbUE3lnpNgIiTvneexpI2EKxN7hA/edit?usp=sharing)
 
