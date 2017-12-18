@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+**Pozor! Odpadá hodina 2.1.2018, poslední hodina bude 9.1.2018, kde můžete s námi konzultovat svůj semestrální projekt a případně ho i obhájit.**
+
 ### Anotace
 
 Tento předmět nejprve seznámí studenty s algoritmickým stylem myšlení pomocí vytvoření programu ve vizuálním jazyce Scratch. Hlavní náplní předmětu bude úvod do programování v Pythonu. Studenti se seznámí s datovými typy, a naučí se psát funkce, cykly a podmínky v Pythonu. Částí kurzu bude také pochopení a tvorba výjimek a jejích důležitost v programování. Studenti se naučí sdílet svoji práci pomocí IPython notebooku a analyzovat data pomocí pandas s následnou vizulazací. Během celého předmětu budou studenti pracovat s verzovacím systémem Git, pomocí kterého budou ukládat výsledky své práce.
@@ -17,7 +20,7 @@ Cílem předmětu je zbavení studentů strachu z programování a naučit je ne
 
 Každé úterý 17:20 - 18:50, učebna B311, Viničná 7, 3. patro.
 
-**Pozor! Poslední hodnina bude 9.1.2018, kde můžete s nami konzultovat svůj semestrální projekt a případně ho i obhajit.**
+**Pozor! Odpadá hodina 2.1.2018, poslední hodina bude 9.1.2018, kde můžete s námi konzultovat svůj semestrální projekt a případně ho i obhájit.**
 
 ### Sylabus
 1. Algoritmické myšlení. <a href="https://docs.google.com/presentation/d/1g6h96oaRYAz2dwzjZ3-5WpYRRNZJM5jb77kmUXGKpfI/edit?usp=sharing" class="presentation">Přednáška</a>
