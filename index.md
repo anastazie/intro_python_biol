@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Pozor! Odpadá hodina 2.1.2018, poslední hodina bude 9.1.2018, kde můžete s námi konzultovat svůj semestrální projekt a případně ho i obhájit.**
+**Pozor! V tomto semestru (zimní semestr 2018) nebude  tento předmět vyučován mnou. Nemám informace o tom, ze by za mě byla nahrada, informujte se na studijním oddělení nebo na katedře Buněčné biologie.**
 
 ### Anotace
 
